@@ -1121,7 +1121,7 @@ body {
   flex-shrink: 0;
   font-weight: 300;
 }
-/* Mobile adjustments */
+
 @media (max-width: 768px) {
   .features-row {
     grid-template-columns: 1fr;
